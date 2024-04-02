@@ -14,8 +14,8 @@
         <div class="botoes">
             <button class="botao">Terminar os estudods</button>
             <button class="botao">Comprar um gol</button>
-            <button class="botao">Criar um portfolio</button>
-            <button class="botao">Atualizar meu currículo</button>
+            <button class="botao">Alugar uma casa</button>
+            <button class="botao">Ter um emprego</button>
         </div>
     </section>
 </body>
